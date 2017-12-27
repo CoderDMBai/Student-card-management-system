@@ -46,7 +46,7 @@
 ![material](Images/changeinfo.png)
 图为：修改学生信息
 ![material](Images/removeinfo.png)
-图为：删除学生信息
+图为：删除学生信息  
 ![material](Images/changepwd.png)
 图为：更改密码
 ![material](Images/exit.png)
