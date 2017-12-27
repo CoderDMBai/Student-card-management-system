@@ -13,7 +13,7 @@
 
 ### 3.概要设计方案	
 ![material](Images/topological_graph.png)
-注：
+> 注：
 > * ① 录入学生证信息（将会重写源文件信息）
 > * ②	在原基础上添加学生证信息
 
@@ -31,23 +31,23 @@
 源代码的压缩包中附带有软件12班的学生信息，用于测试系统运行是否正常。
 
 ### 6.测试功能截图
-密码验证
 ![material](Images/pwdchecker.png)
-主菜单
+> 图为：密码验证
 ![material](Images/main_menu.png)
-子菜单
+> 图为：主菜单
 ![material](Images/submenu.png)
-查询学生信息
+> 图为：子菜单
 ![material](Images/viewinfo.png)
-添加学生信息
+> 图为：查询学生信息
 ![material](Images/inputinfo.png)
-查询班级内所有学生信息
+> 图为：添加学生信息
 ![material](Images/viewinfos.png)
-修改学生信息
+> 图为：查询班级内所有学生信息
 ![material](Images/changeinfo.png)
-删除学生信息
+> 图为：修改学生信息
 ![material](Images/removeinfo.png)
-更改密码
+> 图为：删除学生信息
 ![material](Images/changepwd.png)
-退出系统
+> 图为：更改密码
 ![material](Images/exit.png)
+> 图为：退出系统
